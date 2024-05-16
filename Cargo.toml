@@ -1,0 +1,10 @@
+[package]
+name = "moonshade-raytracer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+scoped-pool = "1.0.0"
+
+[profile.release]
+debug = true
