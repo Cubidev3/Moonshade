@@ -1,2 +1,2 @@
 # Moonshade
-A Raytracer made by Cubidev3 with Rust
+A CPU Multithreaded Raytracer made with Rust
